@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color:bisque;
+    font-size: 40px;
+}
+p {
+    font-size: 25px;
+}
+.main {
+    width : 74% ;
+    margin-left : 20% ;
+}
+.menu {
+    width : 12% ;
+    height : 100% ;
+    padding : 3% ;
+    position : absolute ;
+}
+.menu li {
+    color : purple ;
+    font-size : 20px ;
+    width : 100% ;
+    padding : 10px 6px ; 
+}
+.menu a:hover {
+    color :aliceblue;
+}
+body {
+    background-color:brown;
+}
+/* nav {
+    background-color: aqua;
+}
+main {
+    background-color: antiquewhite;
+} */
